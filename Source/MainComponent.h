@@ -14,7 +14,7 @@ struct Car
     
     bool switchSeats( CarSeat oldSeat, CarSeat newSeat );
     
-    void accelerate(float howFarToPushThePedal);
+    void accelerate( float howFarToPushThePedal );
 };
 //==============================================================================
 /*
